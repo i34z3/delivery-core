@@ -1,0 +1,26 @@
+{
+  "name": "typescript-clean-architecture",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/i34z3/typescript-clean-architecture.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/i34z3/typescript-clean-architecture/issues"
+  },
+  "homepage": "https://github.com/i34z3/typescript-clean-architecture#readme",
+  "devDependencies": {
+    "@swc/core": "^1.2.198",
+    "@swc/jest": "^0.2.21",
+    "ts-node": "^10.8.1",
+    "typescript": "^4.7.3"
+  }
+}
